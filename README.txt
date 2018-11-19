@@ -7,7 +7,7 @@ https://github.com/dotnet/core/blob/master/Documentation/self-contained-linux-ap
 
 
 Steps for running application
-1)navigate to AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\linux-x64
+1)navigate to AnagramFinder3\AnagramFinder2\bin\Release\netcoreapp2.1\linux-x64
 2)type AnagramFinder2 dictionary.txt
 3)The application should now come up.
 
