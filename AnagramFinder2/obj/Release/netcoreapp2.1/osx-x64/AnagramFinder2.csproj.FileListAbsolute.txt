@@ -1,0 +1,15 @@
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\osx-x64\libhostpolicy.dylib
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\osx-x64\libhostfxr.dylib
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\osx-x64\AnagramFinder2
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\osx-x64\dictionary.txt
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\osx-x64\AnagramFinder2.deps.json
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\osx-x64\AnagramFinder2.runtimeconfig.json
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\osx-x64\AnagramFinder2.runtimeconfig.dev.json
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\osx-x64\AnagramFinder2.dll
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\bin\Release\netcoreapp2.1\osx-x64\AnagramFinder2.pdb
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\obj\Release\netcoreapp2.1\osx-x64\AnagramFinder2.csprojAssemblyReference.cache
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\obj\Release\netcoreapp2.1\osx-x64\AnagramFinder2.csproj.CoreCompileInputs.cache
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\obj\Release\netcoreapp2.1\osx-x64\AnagramFinder2.AssemblyInfoInputs.cache
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\obj\Release\netcoreapp2.1\osx-x64\AnagramFinder2.AssemblyInfo.cs
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\obj\Release\netcoreapp2.1\osx-x64\AnagramFinder2.dll
+C:\Users\wlukenba\Desktop\Dev\AnagramFinder2\AnagramFinder2\obj\Release\netcoreapp2.1\osx-x64\AnagramFinder2.pdb
